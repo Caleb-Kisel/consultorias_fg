@@ -1,0 +1,84 @@
+{
+    "https://www.anormalix.com/": [
+        {
+            "app": "LiteSpeed",
+            "ver": null,
+            "type": "Web Servers"
+        },
+        {
+            "app": "WordPress",
+            "ver": "5.4.2",
+            "type": "CMS,Blogs"
+        },
+        {
+            "app": "jQuery",
+            "ver": "1.12.4",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "jQuery",
+            "ver": "1.4.1",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "jQuery Migrate",
+            "ver": "\\2",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Google AdSense",
+            "ver": null,
+            "type": "Advertising Networks"
+        },
+        {
+            "app": "OWL Carousel",
+            "ver": null,
+            "type": "Widgets"
+        },
+        {
+            "app": "jQuery",
+            "ver": "0.7.2",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Font Awesome",
+            "ver": null,
+            "type": "Font Scripts"
+        },
+        {
+            "app": "Google Font API",
+            "ver": null,
+            "type": "Font Scripts"
+        },
+        {
+            "app": "WordPress Super Cache",
+            "ver": null,
+            "type": "Cache Tools"
+        },
+        {
+            "app": "Yoast SEO",
+            "ver": "14.2",
+            "type": "SEO"
+        },
+        {
+            "app": "WP-Statistics",
+            "ver": "12.6.13",
+            "type": "Analytics"
+        },
+        {
+            "app": "animate.css",
+            "ver": null,
+            "type": "UI Frameworks"
+        },
+        {
+            "app": "MySQL",
+            "ver": null,
+            "type": "Databases"
+        },
+        {
+            "app": "PHP",
+            "ver": null,
+            "type": "Programming Languages"
+        }
+    ]
+}
